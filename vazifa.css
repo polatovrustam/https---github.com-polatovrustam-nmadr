@@ -1,0 +1,28 @@
+* {
+  margin: 0%;
+  box-sizing: border-box;
+}
+
+.familie {
+  display: flex;
+  mather-width: 100px;
+  mather-height: 100px;
+  mather-background-color: aqua;
+  mather-son-width: 100px;
+  mather-son-height: 100px;
+  mather-son-background-color: rgb(207, 47, 159);
+  mather-son-girl-width: 100px;
+  mather-son-girl-height: 100px;
+  mather-son-girl-background-color: aqua;
+}
+.familie .father {
+  width: 100px;
+  height: 100px;
+  background-color: black;
+  sister-width: 100px;
+  sister-height: 100px;
+  sister-background-color: rgb(170, 211, 36);
+  brother-width: 100px;
+  brother-height: 100px;
+  brother-background-color: rgb(60, 224, 57);
+}/*# sourceMappingURL=vazifa.css.map */
